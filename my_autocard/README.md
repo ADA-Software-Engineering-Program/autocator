@@ -17,5 +17,5 @@ TRD : https://toyibat.gitbook.io/autocator-trd-team-amadioha/
 
 
 Additional Package Installer Used:
-We used NPM in the intialization of Our React and will be using npm in our page;
+We used NPM in the intialization of Our React and will be using npm in our page no yarn used;
 
