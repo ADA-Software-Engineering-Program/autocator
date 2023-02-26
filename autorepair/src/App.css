@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.button{
+  color: white;
+  border-radius: 10px;
+  background-color: #7C2946;
+  width: 161px;
+  height: 56px;
+  border: none;
+  outline: none;
+  font-family: 'Times';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
