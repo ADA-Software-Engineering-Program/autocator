@@ -25,3 +25,25 @@ The target users of Autocator are grouped into two categories:
 - Organizations (E.g. Ride-hailing companies like Uber)
 
 More updates will be added as the product development is coming along.
+
+
+
+#DAY2:
+The Designers created the wire-frame design our webapp.
+The Front-end developers worked on the Front-End Architecture; we sketched how our webapp will be from the User-Interface to the Server side.
+TRD: 
+
+#Day3-6: 
+The Designers finished all the wireframe designing, they complete all the designs of the landing page and the signup and login page;
+The Fron front-end developers started working on the landing page, login and login pages using react framework.
+
+challenges:
+1) A bit slow down of work due to The National Election in Nigeria.
+
+#DAY7-8:
+The frontend started woring on the functionality of the pages.
+
+
+#DAY3
+
+
