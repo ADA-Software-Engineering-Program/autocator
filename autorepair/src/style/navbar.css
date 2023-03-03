@@ -35,7 +35,7 @@
 .login button{
     color: white;
     border-radius: 10px;
-    background-color: #7C2946;
+    background: #9D2B27;
     width: 161px;
     height: 56px;
     border: none;
@@ -164,7 +164,7 @@ display: flex;
     margin-top: 112px;
     width: 600px;
     Height:345px;
-    radius:10px;
+    /* radius:10px; */
 }
 .xx2 img{
     width: 182px;
